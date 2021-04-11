@@ -1,5 +1,7 @@
 A Lush Theme for Neovim.
 ===
 
-See: http://git.io/lush.nvim for more information on Lush and a helper script
-to setup your repo clone.
+Some experimental lush themes, based on exploring how unreadable you can make
+different code syntax elements and still discern the relevant information
+
+See: http://git.io/lush.nvim for more information on Lush 
